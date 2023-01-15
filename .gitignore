@@ -5,3 +5,8 @@ node_modules/
 .vscode/
 .wireit
 /temp
+env-config.json
+dist/
+out-tsc/
+**/wwwroot/app/**/*.map
+**/wwwroot/app/**/*.js
